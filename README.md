@@ -1,4 +1,4 @@
-# UnitAssignmentMarksTrackingSystem
+# Unit Assignment Marks Tracking System
 
 The Unit Assignment Marks Tracking System is a Java-based application developed using the Swing Framework. 
 
